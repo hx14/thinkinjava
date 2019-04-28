@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9fbe81-26f9-47ed-85f7-472c599dbeeb" name="Default Changelist" comment="2019-04-25 commit">
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter3A4/Chapter3A4Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter3A4/question/explain3A4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/Chapter5Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/InitialValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/OrderOfInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/PassingThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/StaticInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/TerminationCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/explain5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/CADSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Cartoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/PlaceSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShipControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShipDelegation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/explain7.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/explain7.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +21,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/explain5.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/explain7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="687">
+                <caret line="111" column="17" lean-forward="true" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/CADSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/PlaceSetting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="69" column="1" lean-forward="true" selection-start-line="5" selection-end-line="69" selection-end-column="1" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +110,36 @@
         <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/OrderOfInitialization.java" />
         <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/explain5.md" />
         <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/StaticInitialization.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ExplicitStatic.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/Mugs.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ArrayNew.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ArrayClassObj.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ArrayInit.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/VarArgs.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/NewArrayArgs.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/OptionalTrailingArguments.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/VarargType.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/Spiciness.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/EnumOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/Chapter6Main.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/CookieNoExtends.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/Cookie.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question2/Cookie.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/ChocolateChip.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/Lunch.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/explain6.md" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SprinklerSystem.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Bath.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Drawing.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Cartoon.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Chess.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShip.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShipControls.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShipDelegation.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/PlaceSetting.java" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/explain7.md" />
+        <option value="$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/CADSystem.java" />
       </list>
     </option>
   </component>
@@ -121,22 +179,24 @@
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3A4" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
               <item name="question" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="question" type="462c0819:PsiDirectoryNode" />
+              <item name="Bath.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -149,12 +209,12 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556163181953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556442678753" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bln_project/bln" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -173,13 +233,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticInitialization">
-    <configuration name="Chapter3A4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter3A4.Chapter3A4Main" />
+  <component name="RunManager" selected="Application.CADSystem">
+    <configuration name="Bath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter7.question.Bath" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinjava.learn.chapter3A4.*" />
+          <option name="PATTERN" value="com.thinkinjava.learn.chapter7.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter5.question.Flower" />
+    <configuration name="CADSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter7.question.CADSystem" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinjava.learn.chapter5.question.*" />
+          <option name="PATTERN" value="com.thinkinjava.learn.chapter7.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.Main" />
+    <configuration name="Chess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter7.question.Chess" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinjava.learn.*" />
+          <option name="PATTERN" value="com.thinkinjava.learn.chapter7.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderOfInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter5.question.OrderOfInitialization" />
+    <configuration name="PlaceSetting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter7.question.PlaceSetting" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinjava.learn.chapter5.question.*" />
+          <option name="PATTERN" value="com.thinkinjava.learn.chapter7.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter5.question.StaticInitialization" />
+    <configuration name="SprinklerSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinjava.learn.chapter7.question.SprinklerSystem" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinjava.learn.chapter5.question.*" />
+          <option name="PATTERN" value="com.thinkinjava.learn.chapter7.question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Chapter3A4Main" />
-      <item itemvalue="Application.Flower" />
-      <item itemvalue="Application.OrderOfInitialization" />
-      <item itemvalue="Application.StaticInitialization" />
+      <item itemvalue="Application.SprinklerSystem" />
+      <item itemvalue="Application.Bath" />
+      <item itemvalue="Application.Chess" />
+      <item itemvalue="Application.PlaceSetting" />
+      <item itemvalue="Application.CADSystem" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticInitialization" />
-        <item itemvalue="Application.OrderOfInitialization" />
-        <item itemvalue="Application.Flower" />
-        <item itemvalue="Application.Chapter3A4Main" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.CADSystem" />
+        <item itemvalue="Application.PlaceSetting" />
+        <item itemvalue="Application.Chess" />
+        <item itemvalue="Application.Bath" />
+        <item itemvalue="Application.SprinklerSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +329,7 @@
       <workItem from="1555489480040" duration="689000" />
       <workItem from="1555559752046" duration="6412000" />
       <workItem from="1555895134575" duration="43890000" />
+      <workItem from="1556168663971" duration="41872000" />
     </task>
     <task id="LOCAL-00001" summary="2019-04-25 commit">
       <created>1556159727823</created>
@@ -284,11 +345,39 @@
       <option name="project" value="LOCAL" />
       <updated>1556162692911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019-04-25 commit">
+      <created>1556168710423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556168710423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019-04-25 commit">
+      <created>1556186472041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556186472041</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019-04-26 commit">
+      <created>1556260269160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556260269160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019-04-26 commit">
+      <created>1556272665216</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556272665216</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50991000" />
+    <option name="totallyTimeSpent" value="92863000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -301,8 +390,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14392324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,16 +401,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="1898" y="253" width="1876" height="490" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.510395" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21517672" />
+      <window_info anchor="bottom" x="1920" y="23" width="1920" height="1057" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.510395" />
+      <window_info anchor="bottom" x="2330" y="33" width="1920" height="1057" id="Debug" maximized="true" order="3" type="WINDOWED" weight="0.21517672" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32952183" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.32917964" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -381,58 +471,12 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2019-04-25 commit" />
     <MESSAGE value="Revert &quot;2019-04-25 commit&quot;&#10;&#10;This reverts commit 266dab72" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;2019-04-25 commit&quot;&#10;&#10;This reverts commit 266dab72" />
+    <MESSAGE value="2019-04-25 commit" />
+    <MESSAGE value="2019-04-26 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-04-26 commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thinkinjava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="677" column="24" lean-forward="true" selection-start-line="677" selection-start-column="24" selection-end-line="677" selection-end-column="24" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="true" />
-            <element signature="e#10948#10949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="392" column="47" lean-forward="true" selection-start-line="392" selection-start-column="47" selection-end-line="392" selection-end-column="47" />
-          <folding>
-            <element signature="e#11985#11986#0" expanded="true" />
-            <element signature="e#12016#12017#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter3A4/question/explain3A4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="604">
-            <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter3A4/Chapter3A4Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -440,17 +484,6 @@
           <folding>
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/Chapter5Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -581,20 +614,414 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/explain5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+          <first_editor relative-caret-position="624">
+            <caret line="141" column="9" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ExplicitStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+          <folding>
+            <element signature="e#2308#2309#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+          <folding>
+            <element signature="e#4879#4880#0" expanded="true" />
+            <element signature="e#4928#4929#0" expanded="true" />
+            <element signature="e#11985#11986#0" expanded="true" />
+            <element signature="e#12016#12017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ArrayNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ArrayClassObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/ArrayInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/NewArrayArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/Mugs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/OptionalTrailingArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/VarargType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/Spiciness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/chapter6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/question/EnumOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="91" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter5/Chapter5Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/ranges/Range.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7488">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="793" column="28" selection-start-line="793" selection-start-column="28" selection-end-line="793" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/EnumSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="80" column="46" lean-forward="true" selection-start-line="80" selection-start-column="46" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/LongStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="789" column="55" lean-forward="true" selection-start-line="789" selection-start-column="55" selection-end-line="789" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/ChocolateChip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/Lunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question/explain6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="966">
+            <caret line="46" selection-start-line="46" selection-end-line="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/Chapter6Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter6/question2/Cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/Chapter7Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/aaa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Bath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SprinklerSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Drawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Cartoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/Chess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShipDelegation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/SpaceShipControls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/PlaceSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="69" column="1" lean-forward="true" selection-start-line="5" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/explain7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="687">
+            <caret line="111" column="17" lean-forward="true" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/learn/chapter7/question/CADSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

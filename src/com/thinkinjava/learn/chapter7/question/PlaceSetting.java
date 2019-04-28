@@ -1,37 +1,8 @@
-* 初始化基类
-```
-class Art {
-    Art() {
-        System.out.println("Art constructor");
-    }
-}
+package com.thinkinjava.learn.chapter7.question;
 
-class Drawing extends Art {
-    Drawing() {
-        System.out.println("Drawing constructor");
-    }
-}
-
-public class Cartoon extends Drawing {
-    public Cartoon() {
-        System.out.println("Cartoon constructor");
-
-    }
-
-    public static void main(String[] args) {
-        Cartoon x = new Cartoon();
-    }
-}
-```
-**output**：
-```
-Art constructor
-Drawing constructor
-Cartoon constructor
-```
-**解释**：Java会自动在导出类的构造器中国插入对基类构造器的调用构架过程是从基类"向外"扩散，即Art <--(extends)-- Drawing <--(extends)-- Cartoon,所以基类在导出类构造器可以访问他之前，就已经完成了初始化。
-* 代理和继承结合使用
-```
+/**
+ * Created by hx on 2019/4/28.
+ */
 class Plate {
     Plate(int i) {
         System.out.println("Plate constructor");
@@ -67,7 +38,7 @@ class Fork extends Utensil {
 
 class Knife extends Utensil {
     Knife(int i) {
-        super(i);// 这里Knife继承Utensil,即调用父类的构造器
+        super(i);
         System.out.println("Knife constructor");
     }
 }
@@ -86,7 +57,6 @@ public class PlaceSetting extends Custom {
 
     public PlaceSetting(int i) {
         super(i + 1);
-        // sp,frk,kn,pl,每一次调用都会调用一次继承的父类：Utensil,所以每一次打印下面的方法，都会打印一次Utensil中的"Utensil constructor"
         sp = new Spoon(i + 2);
         frk = new Fork(i + 3);
         kn = new Knife(i + 4);
@@ -98,19 +68,3 @@ public class PlaceSetting extends Custom {
         PlaceSetting x = new PlaceSetting(9);
     }
 }
-```
-**解释**：super()这里表示调用父类的构造器，如上注释
-
-**output**：
-Custom constructor
-```
-Utensil constructor
-Spoon constructor
-Utensil constructor
-Fork constructor
-Utensil constructor
-Knife constructor
-Plate constructor
-DinnerPlate constructor
-PlaceSetting constructor
-```

@@ -114,3 +114,25 @@ Plate constructor
 DinnerPlate constructor
 PlaceSetting constructor
 ```
+**向上转型**
+```
+class Instrument {
+    public void play(){}
+    static void tune(Instrument i) {
+        i.play();
+    }
+}
+// 继承可以保证基类Instrument中的所有方法能够在导出类Wind中同样有效
+// 同样的能够像基类发送的所有信息也可以向导出类发送
+public class Wind extends Instrument{
+    public static void main(String[] args) {
+        Wind flute = new Wind();
+        // 在Instrument中tune()传递的是初始化的Instrument，这里传递的是Wind的引用flute
+        // 可以看做Wind对象也是一种Instrument，但是不存在任何tune()方法可以通过Instrument调用，同时又不存在于Wind之中
+        // 在tune()中，程序代码可以对Instrument和它所有的导出类起作用
+        // 这种将Wind引用转化为Instrument引用的动作，称之为"向上转型"
+        Instrument.tune(flute);
+    }
+}
+```
+**解释**：导出类转型为基类，继承图上是向上移动的，所以称之为向上转型。是一个从较专用类型向较通用类型的转换。所以安全。导出类是基类的一个超集，可能含有比基类更多的方法。但是必须至少具备基类中所含有的方法

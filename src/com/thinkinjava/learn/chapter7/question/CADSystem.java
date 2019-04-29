@@ -32,7 +32,7 @@ class Triangle extends Shape {
     }
 
     void dispose() {
-        System.out.println("Drasing constructor");
+        System.out.println("Drawing constructor");
         super.dispose();
     }
 }
@@ -83,7 +83,7 @@ public class CADSystem extends Shape {
         try {
 
         } finally {
-            x.dispose();
+            x.dispose(); // 这里总是要被执行，无论try{}怎样判断，怎样退出
         }
     }
 }
